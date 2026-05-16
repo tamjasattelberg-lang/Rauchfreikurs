@@ -1,0 +1,14 @@
+{
+  "name": "Endlich Rauchfrei",
+  "short_name": "Rauchfrei",
+  "description": "Kurs 05b · Körper Vertiefung · 6 Wochen · Tanja Sattelberg",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#5B9EA0",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
